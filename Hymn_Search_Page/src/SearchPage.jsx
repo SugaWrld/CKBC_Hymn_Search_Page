@@ -86,7 +86,7 @@ function SearchPage() {
                         <div className="card image-card h-100 border-0 shadow-sm">
                           <Zoom>
                             <img
-                                src={`/images/${image.category}/${image.fileName}`}
+                                src={`${import.meta.env.BASE_URL}images/${image.category}/${image.fileName}`}
                                 alt={image.imageName}
                                 className="img-fluid rounded"
                                 style={{
