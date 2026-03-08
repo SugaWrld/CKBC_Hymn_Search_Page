@@ -31,7 +31,7 @@ function SearchPage() {
             <div className="card main-card border-0 shadow-lg">
               <div className="card-body p-4 p-md-5">
                 <div className="text-center mb-4">
-                  <h1 className="display-6 fw-bold mb-2">Image Search Gallery</h1>
+                  <h1 className="display-6 fw-bold mb-2">Kachin Hymnbook</h1>
                   <p className="text-muted mb-0">
                     Search by image name or file number
                   </p>
@@ -55,7 +55,7 @@ function SearchPage() {
                       }`}
                       onClick={() => setActiveTab("MK")}
                     >
-                      MK Category
+                      Shakawn Mahkawn
                     </button>
                   </li>
                   <li className="nav-item">
@@ -65,7 +65,7 @@ function SearchPage() {
                       }`}
                       onClick={() => setActiveTab("H")}
                     >
-                      H Category
+                      Kahti Galai
                     </button>
                   </li>
                 </ul>
