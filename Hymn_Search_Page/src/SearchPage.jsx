@@ -15,9 +15,10 @@ function SearchPage() {
 
       const matchesSearch =
         !term ||
-        image.imageName.toLowerCase().includes(term) ||
-        image.fileName.toLowerCase().includes(term) ||
-        image.imageNumber.toString().includes(term);
+        image.imageName?.toLowerCase().includes(term) ||
+        image.englishName?.toLocaleLowerCase().includes(term) ||
+        image.fileName?.toLowerCase().includes(term) ||
+        image.imageNumber?.toString().includes(term);
 
       return matchesCategory && matchesSearch;
     });
@@ -41,7 +42,7 @@ function SearchPage() {
                   <input
                     type="text"
                     className="form-control form-control-lg"
-                    placeholder="Search: MK12, H7, 45, MK45.JPG..."
+                    placeholder="Search: NAME, NUMBER ..."
                     value={searchTerm}
                     onChange={(e) => setSearchTerm(e.target.value)}
                   />
@@ -55,7 +56,7 @@ function SearchPage() {
                       }`}
                       onClick={() => setActiveTab("MK")}
                     >
-                      Shakawn Mahkawn
+                      Mahkawn
                     </button>
                   </li>
                   <li className="nav-item">
@@ -101,9 +102,11 @@ function SearchPage() {
                             <p className="mb-1 text-muted small">
                               <strong>Number:</strong> {image.imageNumber}
                             </p>
-                            <p className="mb-0 text-muted small">
-                              <strong>File:</strong> {image.fileName}
+                            {image.category === "MK" && (
+                              <p className="mb-0 text-muted small">
+                              <strong>Eng Name:</strong> {image?.englishName}
                             </p>
+                            )}
                           </div>
                         </div>
                       </div>
