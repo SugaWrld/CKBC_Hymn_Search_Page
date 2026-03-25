@@ -3,6 +3,9 @@
     "id": 1,
     "imageName": "AMYU SHAGU SHAKAWN MU",
     "imageNumber": 1,
+    "englishName":"WILL ONE CONSENT LET ALL THE EARTH",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK1.jpg",
     "category": "MK",
     "fileName": "MK1.jpg"
@@ -11,6 +14,9 @@
     "id": 2,
     "imageName": "SHAKAWN GA",
     "imageNumber": 2,
+    "englishName":"DOXOLOGY",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK2.jpg",
     "category": "MK",
     "fileName": "MK2.jpg"
@@ -19,6 +25,9 @@
     "id": 3,
     "imageName": "KARAI KASANG",
     "imageNumber": 3,
+    "englishName":"",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK3.jpg",
     "category": "MK",
     "fileName": "MK3.jpg"
@@ -27,6 +36,9 @@
     "id": 4,
     "imageName": "NAW KU GA",
     "imageNumber": 4,
+    "englishName":"",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK4.jpg",
     "category": "MK",
     "fileName": "MK4.jpg"
@@ -35,6 +47,9 @@
     "id": 5,
     "imageName": "KARAI KASANG SHAKAWN MU",
     "imageNumber": 5,
+    "englishName":"GLORY TO GOD ON HIGHT",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK5.jpg",
     "category": "MK",
     "fileName": "MK5.jpg"
@@ -43,6 +58,9 @@
     "id": 6,
     "imageName": "ANHTE A SHINGBYI SHARA",
     "imageNumber": 6,
+    "englishName":"A MIGHTY FORTESS IS OUR GOD",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK6.jpg",
     "category": "MK",
     "fileName": "MK6.jpg"
@@ -51,6 +69,9 @@
     "id": 7,
     "imageName": "CHYOIPRA AI KARAI KASANG",
     "imageNumber": 7,
+    "englishName":"HOLY, HOLY, HOLY, LORD GOD ALMIGHTY",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK7.jpg",
     "category": "MK",
     "fileName": "MK7.jpg"
@@ -59,6 +80,9 @@
     "id": 8,
     "imageName": "KARAI KASANG A LAM",
     "imageNumber": 8,
+    "englishName":"GOD MOVES IN A MYSTERIOUS WAY",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK8.jpg",
     "category": "MK",
     "fileName": "MK8.jpg"
@@ -67,6 +91,9 @@
     "id": 9,
     "imageName": "HKAWHKAM HPE NAW MU",
     "imageNumber": 9,
+    "englishName":"OH WORSHIP THE KING",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK9.jpg",
     "category": "MK",
     "fileName": "MK9.jpg"
@@ -75,6 +102,9 @@
     "id": 10,
     "imageName": "YEHOWA HPE SHAKAWN MU",
     "imageNumber": 10,
+    "englishName":"ONE THERE IS ABOVE ALL OTHERS",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK10.jpg",
     "category": "MK",
     "fileName": "MK10.jpg"
@@ -83,6 +113,9 @@
     "id": 11,
     "imageName": "HPYI AI GA",
     "imageNumber": 11,
+    "englishName":"",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK11.jpg",
     "category": "MK",
     "fileName": "MK11.jpg"
@@ -91,6 +124,9 @@
     "id": 12,
     "imageName": "TSAW HTUM AI KARAI KASANG",
     "imageNumber": 12,
+    "englishName":"LORD GOD OF HOSTS, BY ALL ADORED",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK12.jpg",
     "category": "MK",
     "fileName": "MK12.jpg"
@@ -99,6 +135,9 @@
     "id": 13,
     "imageName": "KARAI WA HTE ANI SHA NGA",
     "imageNumber": 13,
+    "englishName":"NEARER MY GOD TO THEE",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK13.jpg",
     "category": "MK",
     "fileName": "MK13.jpg"
@@ -107,6 +146,9 @@
     "id": 14,
     "imageName": "KARAI KASANG HPE TSAW GA",
     "imageNumber": 14,
+    "englishName":"WE SHOULD LOVE GOD",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK14.jpg",
     "category": "MK",
     "fileName": "MK14.jpg"
@@ -115,6 +157,9 @@
     "id": 15,
     "imageName": "NINGHTOI GINTAWNG",
     "imageNumber": 15,
+    "englishName":"ALL HAIL TO THEE, O BLESSED MORN",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK15.jpg",
     "category": "MK",
     "fileName": "MK15.jpg"
@@ -123,6 +168,9 @@
     "id": 16,
     "imageName": "YESU A SHANA SHAT",
     "imageNumber": 16,
+    "englishName":"ROCKINGHAM OL L.M.",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK16.jpg",
     "category": "MK",
     "fileName": "MK16.jpg"
@@ -131,6 +179,9 @@
     "id": 17,
     "imageName": "KARAI KASANG WOI LA NA",
     "imageNumber": 17,
+    "englishName":"HE LEADETH ME, O BLESSED THOUGHT",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK17.jpg",
     "category": "MK",
     "fileName": "MK17.jpg"
@@ -139,6 +190,9 @@
     "id": 18,
     "imageName": "BAU SIN E MADU",
     "imageNumber": 18,
+    "englishName":"LORD KEEP US SAFE THIS NIGHT",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK18.jpg",
     "category": "MK",
     "fileName": "MK18.jpg"
@@ -147,6 +201,9 @@
     "id": 19,
     "imageName": "KABU GARA AI DINGSI",
     "imageNumber": 19,
+    "englishName":"THE GOSPEL BELLS",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK19.jpg",
     "category": "MK",
     "fileName": "MK19.jpg"
@@ -155,6 +212,9 @@
     "id": 20,
     "imageName": "NYE MARA HPA ME SHIN NA",
     "imageNumber": 20,
+    "englishName":"NOTHING BUT THE BLOOD",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK20.jpg",
     "category": "MK",
     "fileName": "MK20.jpg"
@@ -163,6 +223,9 @@
     "id": 21,
     "imageName": "KARAI KASANG SHINGKANG NGA U GA",
     "imageNumber": 21,
+    "englishName":"TO GOD BE THE GLORY",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK21.jpg",
     "category": "MK",
     "fileName": "MK21.jpg"
@@ -171,6 +234,9 @@
     "id": 22,
     "imageName": "HKYE LA AI MADU",
     "imageNumber": 22,
+    "englishName":"FROM ALL THAT DWELL BELOW THE SKIES",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK22.jpg",
     "category": "MK",
     "fileName": "MK22.jpg"
@@ -179,6 +245,9 @@
     "id": 23,
     "imageName": "KARAI KASANG A CHYEJU",
     "imageNumber": 23,
+    "englishName":"GIVE THANKS TO GOD HE RESIGNS ABOVE",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK23.jpg",
     "category": "MK",
     "fileName": "MK23.jpg"
@@ -187,6 +256,9 @@
     "id": 24,
     "imageName": "YESU SHANGAI WA SAI",
     "imageNumber": 24,
+    "englishName":"HARK! THE HEARLD ANGELS SING",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK24.jpg",
     "category": "MK",
     "fileName": "MK24.jpg"
@@ -195,6 +267,9 @@
     "id": 25,
     "imageName": "LAMU KASA NI A MAHKAWN GA",
     "imageNumber": 25,
+    "englishName":"WHILE SHEPHERDS THEIR FLOCKS BY NIGHT",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK25.jpg",
     "category": "MK",
     "fileName": "MK25.jpg"
@@ -203,6 +278,9 @@
     "id": 26,
     "imageName": "NGA SHARA N NGA",
     "imageNumber": 26,
+    "englishName":"NO ROOM IN THE INN",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK26.jpg",
     "category": "MK",
     "fileName": "MK26.jpg"
@@ -211,6 +289,9 @@
     "id": 27,
     "imageName": "MUNGKAN KABU U",
     "imageNumber": 27,
+    "englishName":"JOY TO THE WORLD",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK27.jpg",
     "category": "MK",
     "fileName": "MK27.jpg"
@@ -219,6 +300,9 @@
     "id": 28,
     "imageName": "MADU MATU HPU HTUM KUMHPA N LU",
     "imageNumber": 28,
+    "englishName":"MASTER, NO OFFERING",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK28.jpg",
     "category": "MK",
     "fileName": "MK28.jpg"
@@ -227,6 +311,9 @@
     "id": 29,
     "imageName": "TSAWRA MYIT RAWNG AI HKAWHKAM GAW",
     "imageNumber": 29,
+    "englishName":"THE KING OF LOVE MY SHEPHERD IS",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK29.jpg",
     "category": "MK",
     "fileName": "MK29.jpg"
@@ -235,6 +322,9 @@
     "id": 30,
     "imageName": "NA HKALUM LA AI  NSEN HPE NA NNGAI",
     "imageNumber": 30,
+    "englishName":"I HEAR THY WELCOME VOICE",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK30.jpg",
     "category": "MK",
     "fileName": "MK30.jpg"
@@ -243,6 +333,9 @@
     "id": 31,
     "imageName": "LAM MADUN YA RIT",
     "imageNumber": 31,
+    "englishName":"GUIDE ME, O THOU GREAT JEHOVAH",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK31.jpg",
     "category": "MK",
     "fileName": "MK31.jpg"
@@ -251,6 +344,9 @@
     "id": 32,
     "imageName": "PYAW HTUM AI EDIN",
     "imageNumber": 32,
+    "englishName":"BEAUTIFUL VALLEY OF EDEN",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK32.jpg",
     "category": "MK",
     "fileName": "MK32.jpg"
@@ -259,6 +355,9 @@
     "id": 33,
     "imageName": "KARAI KASANG HPE SHAKAWN GA AI",
     "imageNumber": 33,
+    "englishName":"WE PRAISE THEE, O GOD",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK33.jpg",
     "category": "MK",
     "fileName": "MK33.jpg"
@@ -267,14 +366,20 @@
     "id": 34,
     "imageName": "NGA YAWNG A MADU",
     "imageNumber": 34,
+    "englishName":"LORD OF ALL BEING",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK34.jpg",
     "category": "MK",
     "fileName": "MK34.jpg"
   },
   {
     "id": 35,
-    "imageName": "KARAI WA E NANG HTE HTEP HTEP",
+    "imageName": "KARAI WA E, NANG HTE HTEP HTEP",
     "imageNumber": 35,
+    "englishName":"O FOR A CLOSER WALK WITH GOD",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK35.jpg",
     "category": "MK",
     "fileName": "MK35.jpg"
@@ -283,6 +388,9 @@
     "id": 36,
     "imageName": "SHAKAWN GA",
     "imageNumber": 36,
+    "englishName":"GLORY BE TO THE FATHER",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK36.jpg",
     "category": "MK",
     "fileName": "MK36.jpg"
@@ -291,6 +399,9 @@
     "id": 37,
     "imageName": "DOUBLE AMEN",
     "imageNumber": 37,
+    "englishName":"DOUBLE AMEN",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK37.jpg",
     "category": "MK",
     "fileName": "MK37.jpg"
@@ -299,6 +410,9 @@
     "id": 38,
     "imageName": "TUT NNAN NGA AI",
     "imageNumber": 38,
+    "englishName":"ALWAYS NEW",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK38.jpg",
     "category": "MK",
     "fileName": "MK38.jpg"
@@ -307,6 +421,9 @@
     "id": 39,
     "imageName": "YESU HKYE LA LU AI",
     "imageNumber": 39,
+    "englishName":"WHOEVER RECEIVETH THE CRUFIED ONE",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK39.jpg",
     "category": "MK",
     "fileName": "MK39.jpg"
@@ -315,6 +432,9 @@
     "id": 40,
     "imageName": "NA A MATU NGAI SI",
     "imageNumber": 40,
+    "englishName":"I GAVE MY LIFE FOR THEE",
+    "englishDetail":"",
+    "engLink":"",
     "imageSource": "/images/MK/MK40.jpg",
     "category": "MK",
     "fileName": "MK40.jpg"
@@ -323,6 +443,9 @@
     "id": 41,
     "imageName": "YESU SI HKAM AI",
     "imageNumber": 41,
+    "englishName": "O SCARED HEAD NOW WOUNDED",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK41.jpg",
     "category": "MK",
     "fileName": "MK41.jpg"
@@ -331,6 +454,9 @@
     "id": 42,
     "imageName": "MADU NGAI HPE DUM E",
     "imageNumber": 42,
+    "englishName": "ALAS! AND DID MY SAVIOUR BLEED?",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK42.jpg",
     "category": "MK",
     "fileName": "MK42.jpg"
@@ -339,6 +465,9 @@
     "id": 43,
     "imageName": "TSI SARA KABA",
     "imageNumber": 43,
+    "englishName": "THE GREAT PHYSICIAN",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK43.jpg",
     "category": "MK",
     "fileName": "MK43.jpg"
@@ -347,6 +476,9 @@
     "id": 44,
     "imageName": "HKYE LA MADU",
     "imageNumber": 44,
+    "englishName": "JESUS CHRIST OUR SAVIOUR",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK44.jpg",
     "category": "MK",
     "fileName": "MK44.jpg"
@@ -355,6 +487,9 @@
     "id": 45,
     "imageName": "YESU A MYING",
     "imageNumber": 45,
+    "englishName": "",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK45.jpg",
     "category": "MK",
     "fileName": "MK45.jpg"
@@ -363,6 +498,9 @@
     "id": 46,
     "imageName": "NAZARET WA YESU LAI SA RA",
     "imageNumber": 46,
+    "englishName": "JESUS OF NAZARETH PASSETH BY",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK46.jpg",
     "category": "MK",
     "fileName": "MK46.jpg"
@@ -371,6 +509,9 @@
     "id": 47,
     "imageName": "WUDANG HTA NGAI KABU",
     "imageNumber": 47,
+    "englishName": "AT THE CROSS",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK47.jpg",
     "category": "MK",
     "fileName": "MK47.jpg"
@@ -379,6 +520,9 @@
     "id": 48,
     "imageName": "KAM SHAM NNA MADAT MARA U",
     "imageNumber": 48,
+    "englishName": "TRUST AND OBEY",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK48.jpg",
     "category": "MK",
     "fileName": "MK48.jpg"
@@ -387,6 +531,9 @@
     "id": 49,
     "imageName": "NGWI PYAW TSAWRA AI KUMHPA",
     "imageNumber": 49,
+    "englishName": "SWEET PEACE, THE GIFT OF GOD'S LOVE",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK49.jpg",
     "category": "MK",
     "fileName": "MK49.jpg"
@@ -395,6 +542,9 @@
     "id": 50,
     "imageName": "MAUHPA TSAWRA MYIT YU MU",
     "imageNumber": 50,
+    "englishName": "BEHOLD, WHAT LOVE",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK50.jpg",
     "category": "MK",
     "fileName": "MK50.jpg"
@@ -403,6 +553,9 @@
     "id": 51,
     "imageName": "MAUHPA MAUMWI HPE NGAI MAHKAWN NA",
     "imageNumber": 51,
+    "englishName": "I WILL SING THE WONDROUS STORY",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK51.jpg",
     "category": "MK",
     "fileName": "MK51.jpg"
@@ -411,6 +564,9 @@
     "id": 52,
     "imageName": "A HTUM AI YESU",
     "imageNumber": 52,
+    "englishName": "COME THOU FOUNT OF EVERY BLESSING",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK52.jpg",
     "category": "MK",
     "fileName": "MK52.jpg"
@@ -419,6 +575,9 @@
     "id": 53,
     "imageName": "SAI HPRING AI HKA HTUNG",
     "imageNumber": 53,
+    "englishName": "THERE IS A FOUNTAIN FILLED WITH BLOOD",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK53.jpg",
     "category": "MK",
     "fileName": "MK53.jpg"
@@ -427,6 +586,9 @@
     "id": 54,
     "imageName": "YU NNA HKRUNG MU",
     "imageNumber": 54,
+    "englishName": "THERE IS LIFE FOR A LOOK",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK54.jpg",
     "category": "MK",
     "fileName": "MK54.jpg"
@@ -435,6 +597,9 @@
     "id": 55,
     "imageName": "YESU A WUDANG",
     "imageNumber": 55,
+    "englishName": "THE CROSS",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK55.jpg",
     "category": "MK",
     "fileName": "MK55.jpg"
@@ -443,6 +608,9 @@
     "id": 56,
     "imageName": "YESU A HKAM SHARANG AI",
     "imageNumber": 56,
+    "englishName": "GO TO DARK GETH SEMANE",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK56.jpg",
     "category": "MK",
     "fileName": "MK56.jpg"
@@ -451,6 +619,9 @@
     "id": 57,
     "imageName": "CHYOI PRA AI SAGU KASHA",
     "imageNumber": 57,
+    "englishName": "HOLY LAMB, WHO THEE RECEIVE",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK57.jpg",
     "category": "MK",
     "fileName": "MK57.jpg"
@@ -459,6 +630,9 @@
     "id": 58,
     "imageName": "YAWN HKYEN AI NI SA MARIT",
     "imageNumber": 58,
+    "englishName": "COME YE DISCONSOLATE",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK58.jpg",
     "category": "MK",
     "fileName": "MK58.jpg"
@@ -467,6 +641,9 @@
     "id": 59,
     "imageName": "WUDANG DE WA RING NGAI",
     "imageNumber": 59,
+    "englishName": "I AM COMING TO THE CROSS",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK59.jpg",
     "category": "MK",
     "fileName": "MK59.jpg"
@@ -475,6 +652,9 @@
     "id": 60,
     "imageName": "MARI LUP DE SA WA SAI",
     "imageNumber": 60,
+    "englishName": "MARRY TO THE SAVIOUR'S TOMB",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK60.jpg",
     "category": "MK",
     "fileName": "MK60.jpg"
@@ -483,6 +663,9 @@
     "id": 61,
     "imageName": "YESU BAI RAWT AI",
     "imageNumber": 61,
+    "englishName": "YES, THE REDEEMER ROSE",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK61.jpg",
     "category": "MK",
     "fileName": "MK61.jpg"
@@ -491,6 +674,9 @@
     "id": 62,
     "imageName": "YESU RAWT WA SAI",
     "imageNumber": 62,
+    "englishName": "WHEN I THE HOLY GRAVE SURVEY",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK62.jpg",
     "category": "MK",
     "fileName": "MK62.jpg"
@@ -499,6 +685,9 @@
     "id": 63,
     "imageName": "SHI RAWT WA SAI",
     "imageNumber": 63,
+    "englishName": "HALLELUJAH, HE IS RISEN",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK63.jpg",
     "category": "MK",
     "fileName": "MK63.jpg"
@@ -507,6 +696,9 @@
     "id": 64,
     "imageName": "DAI MADU DAI NI RAWT SAI",
     "imageNumber": 64,
+    "englishName": "CHRIST THE LORD IS RISEN TODAY",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK64.jpg",
     "category": "MK",
     "fileName": "MK64.jpg"
@@ -515,6 +707,9 @@
     "id": 65,
     "imageName": "HKRISTU RAWT SAI",
     "imageNumber": 65,
+    "englishName": "CHRIST A ROSE",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK65.jpg",
     "category": "MK",
     "fileName": "MK65.jpg"
@@ -523,6 +718,9 @@
     "id": 66,
     "imageName": "NGWI PYAW MANAP DU RIT",
     "imageNumber": 66,
+    "englishName": "WELCOME HAPPY MORNING",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK66.jpg",
     "category": "MK",
     "fileName": "MK66.jpg"
@@ -531,6 +729,9 @@
     "id": 67,
     "imageName": "NING RAI NGA NNGAI",
     "imageNumber": 67,
+    "englishName": "JUST AS I AM",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK67.jpg",
     "category": "MK",
     "fileName": "MK67.jpg"
@@ -539,6 +740,9 @@
     "id": 68,
     "imageName": "NYE MYIT A AHTOI",
     "imageNumber": 68,
+    "englishName": "SUN OF MY SOUL",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK68.jpg",
     "category": "MK",
     "fileName": "MK68.jpg"
@@ -547,6 +751,9 @@
     "id": 69,
     "imageName": "YESU TSAW RA AI MYIT",
     "imageNumber": 69,
+    "englishName": "AWAKE MY SOUL IN JOYFUL LAYS",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK69.jpg",
     "category": "MK",
     "fileName": "MK69.jpg"
@@ -555,6 +762,9 @@
     "id": 70,
     "imageName": "YESU A WUDANG",
     "imageNumber": 70,
+    "englishName": "IN THE CROSS OF CHRIST I GLORY",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK70.jpg",
     "category": "MK",
     "fileName": "MK70.jpg"
@@ -563,6 +773,9 @@
     "id": 71,
     "imageName": "YESU ARAWNG SADANG",
     "imageNumber": 71,
+    "englishName": "ALL HAIL THE POWER OF JESUS NAME",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK71.jpg",
     "category": "MK",
     "fileName": "MK71.jpg"
@@ -571,6 +784,9 @@
     "id": 72,
     "imageName": "HPUNG RAWNG AI KARAI WA",
     "imageNumber": 72,
+    "englishName": "GOD OF GRACE AND GOD OF GLORY",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK72.jpg",
     "category": "MK",
     "fileName": "MK72.jpg"
@@ -579,6 +795,9 @@
     "id": 73,
     "imageName": "LAM HTUM HKRA YESU WOI AI",
     "imageNumber": 73,
+    "englishName": "ALL THE WAY MY SAVIOUR LEADS ME",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK73.jpg",
     "category": "MK",
     "fileName": "MK73.jpg"
@@ -587,6 +806,9 @@
     "id": 74,
     "imageName": "KADAI MUNG SA LU AI",
     "imageNumber": 74,
+    "englishName": "WHOSEVER WILL",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK74.jpg",
     "category": "MK",
     "fileName": "MK74.jpg"
@@ -595,6 +817,9 @@
     "id": 75,
     "imageName": "NA A YUBAK SAI ZAWN HKYENG YANG",
     "imageNumber": 75,
+    "englishName": "THOUGH YOUR SINS BE AS SCARIEST",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK75.jpg",
     "category": "MK",
     "fileName": "MK75.jpg"
@@ -603,6 +828,9 @@
     "id": 76,
     "imageName": "NYE YUBAK RAW NA LAM",
     "imageNumber": 76,
+    "englishName": "I BRING MY SINS TO THEE",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK76.jpg",
     "category": "MK",
     "fileName": "MK76.jpg"
@@ -611,6 +839,9 @@
     "id": 77,
     "imageName": "YUBAK KAP AI WA A JINGHKU",
     "imageNumber": 77,
+    "englishName": "JESUS THOU ART THE SINNER'S FRIEND",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK77.jpg",
     "category": "MK",
     "fileName": "MK77.jpg"
@@ -619,6 +850,9 @@
     "id": 78,
     "imageName": "MAUHPA HKYE WA YESU",
     "imageNumber": 78,
+    "englishName": "JESUS WONDROUS SAVIOUR",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK78.jpg",
     "category": "MK",
     "fileName": "MK78.jpg"
@@ -627,6 +861,9 @@
     "id": 79,
     "imageName": "HTOI WA SHINGGAN",
     "imageNumber": 79,
+    "englishName": "LEAD KINDLY LIGHT",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK79.jpg",
     "category": "MK",
     "fileName": "MK79.jpg"
@@ -635,6 +872,9 @@
     "id": 80,
     "imageName": "NGAI HPE TAM NGA",
     "imageNumber": 80,
+    "englishName": "SEEKING FOR ME",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK80.jpg",
     "category": "MK",
     "fileName": "MK80.jpg"
@@ -643,6 +883,9 @@
     "id": 81,
     "imageName": "YESU NGAI WA RING NGAI",
     "imageNumber": 81,
+    "englishName": "JESUS, I COME!",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK81.jpg",
     "category": "MK",
     "fileName": "MK81.jpg"
@@ -651,6 +894,9 @@
     "id": 82,
     "imageName": "MUNGKAN A NINGHTOI YESU",
     "imageNumber": 82,
+    "englishName": "THE LIGHT OF THE WORLD IS JESUS",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK82.jpg",
     "category": "MK",
     "fileName": "MK82.jpg"
@@ -659,6 +905,9 @@
     "id": 83,
     "imageName": "YESU HKYE LA AI",
     "imageNumber": 83,
+    "englishName": "JESUS SAVES",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK83.jpg",
     "category": "MK",
     "fileName": "MK83.jpg"
@@ -667,6 +916,9 @@
     "id": 84,
     "imageName": "LUNGHKRUNG GRIN",
     "imageNumber": 84,
+    "englishName": "THE SOLID ROCK",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK84.jpg",
     "category": "MK",
     "fileName": "MK84.jpg"
@@ -675,6 +927,9 @@
     "id": 85,
     "imageName": "SAGU REM AI WA",
     "imageNumber": 85,
+    "englishName": "JESUS IS MY SHEPHERD",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK85.jpg",
     "category": "MK",
     "fileName": "MK85.jpg"
@@ -683,6 +938,9 @@
     "id": 86,
     "imageName": "NANG HKI BA NGA NNI",
     "imageNumber": 86,
+    "englishName": "ART THOU WEARY",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK86.jpg",
     "category": "MK",
     "fileName": "MK86.jpg"
@@ -691,6 +949,9 @@
     "id": 87,
     "imageName": "YESU NGAI NANG KAW HKAN",
     "imageNumber": 87,
+    "englishName": "SAVIOUR I FOLLOW ON",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK87.jpg",
     "category": "MK",
     "fileName": "MK87.jpg"
@@ -699,6 +960,9 @@
     "id": 88,
     "imageName": "YESU HKYE LA MAYU AI",
     "imageNumber": 88,
+    "englishName": "CHRIST RECIEVETH SINFUL MEN",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK88.jpg",
     "category": "MK",
     "fileName": "MK88.jpg"
@@ -707,6 +971,9 @@
     "id": 89,
     "imageName": "NGAI HTA GRAU TSAW AI LUNGHKRUNG ",
     "imageNumber": 89,
+    "englishName": "THE ROCK THAT IS HIGHER THAN I",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK89.jpg",
     "category": "MK",
     "fileName": "MK89.jpg"
@@ -715,6 +982,9 @@
     "id": 90,
     "imageName": "MAT AI SAGU KASHA",
     "imageNumber": 90,
+    "englishName": "I WAS A WONDERING SHEEP",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK90.jpg",
     "category": "MK",
     "fileName": "MK90.jpg"
@@ -723,6 +993,9 @@
     "id": 91,
     "imageName": "YESU A SAI",
     "imageNumber": 91,
+    "englishName": "NOT ALL THE BLOOD OF BEAST",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK91.jpg",
     "category": "MK",
     "fileName": "MK91.jpg"
@@ -731,6 +1004,9 @@
     "id": 92,
     "imageName": "YESU GAWNG MALAI HKUNGGA",
     "imageNumber": 92,
+    "englishName": "WEEPING SOUL NO LONGER MOURN",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK92.jpg",
     "category": "MK",
     "fileName": "MK92.jpg"
@@ -739,6 +1015,9 @@
     "id": 93,
     "imageName": "SHI SINGKAW A SHINGNIP HTA",
     "imageNumber": 93,
+    "englishName": "IN THE SHADOW OF HIS WINGS",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK93.jpg",
     "category": "MK",
     "fileName": "MK93.jpg"
@@ -747,6 +1026,9 @@
     "id": 94,
     "imageName": "ANHTE SHINGBYI LUNGHKRUNG YESU",
     "imageNumber": 94,
+    "englishName": "A SHELTER IN THE TIME OF STORM",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK94.jpg",
     "category": "MK",
     "fileName": "MK94.jpg"
@@ -755,6 +1037,9 @@
     "id": 95,
     "imageName": "NYE MYIT MASIN MADAT MARA U",
     "imageNumber": 95,
+    "englishName": "HARK HARK MY SOUL",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK95.jpg",
     "category": "MK",
     "fileName": "MK95.jpg"
@@ -763,6 +1048,9 @@
     "id": 96,
     "imageName": "YU U CHYINGHKA E NGAI TSAP NGA",
     "imageNumber": 96,
+    "englishName": "BEHOLD ME STANDING AT THE DOOR",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK96.jpg",
     "category": "MK",
     "fileName": "MK96.jpg"
@@ -771,6 +1059,9 @@
     "id": 97,
     "imageName": "JINGHKU YESU",
     "imageNumber": 97,
+    "englishName": "WHAT A FRIEND WE HAVE IN JESUS",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK97.jpg",
     "category": "MK",
     "fileName": "MK97.jpg"
@@ -779,6 +1070,9 @@
     "id": 98,
     "imageName": "NBUNG LARU KAJI KABA",
     "imageNumber": 98,
+    "englishName": "FROM EVERY STORMY WIND THAT BLOWS",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK98.jpg",
     "category": "MK",
     "fileName": "MK98.jpg"
@@ -787,6 +1081,9 @@
     "id": 99,
     "imageName": "NGAI HPE MUNG",
     "imageNumber": 99,
+    "englishName": "LORD I HEAR OF SHOWERS OF BLESSINGS",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK99.jpg",
     "category": "MK",
     "fileName": "MK99.jpg"
@@ -795,6 +1092,9 @@
     "id": 100,
     "imageName": "HPAW TAWN NGA AI CHYINGHKA",
     "imageNumber": 100,
+    "englishName": "THE GATE AJAR FOR ME",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK100.jpg",
     "category": "MK",
     "fileName": "MK100.jpg"
@@ -803,6 +1103,9 @@
     "id": 101,
     "imageName": "SHAGE WA DINGGRIN SHARA",
     "imageNumber": 101,
+    "englishName": "SHADE WA DINGGRIN SHARA",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK101.jpg",
     "category": "MK",
     "fileName": "MK101.jpg"
@@ -811,6 +1114,9 @@
     "id": 102,
     "imageName": "YESU HPR KAM AI",
     "imageNumber": 102,
+    "englishName": "MY FAITH LOOKS UP TO THEE",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK102.jpg",
     "category": "MK",
     "fileName": "MK102.jpg"
@@ -819,6 +1125,9 @@
     "id": 103,
     "imageName": "MADU HTE HKAWM MA YU NNGAI",
     "imageNumber": 103,
+    "englishName": "O MASTER LET ME WALK WITH THEE",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK103.jpg",
     "category": "MK",
     "fileName": "MK103.jpg"
@@ -827,6 +1136,9 @@
     "id": 104,
     "imageName": "LUNGHKRUNG GRIN",
     "imageNumber": 104,
+    "englishName": "ROCK OF AGES",
+    "englishDetail": "",
+    "engLink": "",
     "imageSource": "/images/MK/MK104.jpg",
     "category": "MK",
     "fileName": "MK104.jpg"
